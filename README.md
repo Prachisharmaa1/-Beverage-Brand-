@@ -1,183 +1,101 @@
-🥤 Beverage Brand Sales Dashboard 📊
-
-📌 Project Overview
-
-This Beverage Brand Sales Dashboard provides an interactive analysis of beverage sales performance, units sold, operating profit, retailer contribution, delivery company performance, monthly sales trends, and regional sales distribution.
-
-The dashboard helps businesses identify top-performing beverage brands, understand sales trends, and make data-driven decisions to improve business performance.
-
-🖼️ Dashboard Preview
+# 🥤 Beverage Brand Analytics Dashboard 📊
 
 <p align="center">
-  <img src="images/Dashboard Power BI.png">
+  <img src="images/beverage-dashboard.png" alt="Beverage Brand Dashboard" width="100%">
 </p>
 
+<h3 align="center">Turning Sales Data into Business Insights 🚀</h3>
 
+<p align="center">
+  An interactive Power BI dashboard for analyzing beverage sales, profitability, retailer performance, and regional trends.
+</p>
 
-🎯 Project Objectives
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/Data-Analytics-800080?style=for-the-badge" alt="Data Analytics">
+  <img src="https://img.shields.io/badge/Business-Intelligence-0078D4?style=for-the-badge" alt="Business Intelligence">
+</p>
 
-📈 Analyze total sales and operating profit.
+---
 
-🥤 Identify the best-performing beverage brands.
+## 📌 About the Project
 
-🛒 Compare sales across different retailers.
+The **Beverage Brand Analytics Dashboard** provides a comprehensive overview of beverage sales performance using interactive charts, KPI cards, and regional filters.
 
-🚚 Evaluate delivery company sales performance.
+The main objective is to identify top-performing brands, analyze monthly sales trends, compare retailer contributions, and understand regional performance to support data-driven business decisions.
 
-📅 Understand monthly sales trends.
+## 🎯 Project Objectives
 
-🌎 Analyze sales across different regions.
+- 📈 Analyze total sales and operating profit.
+- 🥤 Identify the best-performing beverage brands.
+- 🛒 Compare sales contributions across retailers.
+- 🚚 Evaluate delivery company performance.
+- 📅 Track monthly sales trends.
+- 🌎 Analyze sales performance by region.
+- 📦 Compare units sold across beverage brands.
 
-📦 Compare units sold by beverage brand.
+## 💎 Key Performance Indicators (KPIs)
 
+| KPI | Value |
+|---|---:|
+| 💰 Total Sales | 8.2M |
+| 📦 Units Sold | 16M |
+| 💵 Operating Profit | 3.0M |
+| 📊 Operating Margin | Refer to dashboard |
 
-📉 Dashboard Visualizations
+## 📊 Dashboard Visualizations
 
-1. 🥤 Total Sales by Beverage Brand
+| Visualization | Description |
+|---|---|
+| 🥤 Sales by Beverage Brand | Compares sales across beverage brands. |
+| 🛒 Sales by Retailer | Shows each retailer's contribution to total sales. |
+| 🚚 Sales by Delivery Company | Compares sales associated with delivery companies. |
+| 📅 Monthly Sales Trend | Highlights changes in sales throughout the year. |
+| 📦 Units Sold by Brand | Compares product sales volumes. |
+| 🌎 Sales by Region | Identifies the highest- and lowest-performing regions. |
 
-Compares the sales performance of different beverage brands.
+## 🔍 Key Insights
 
-🥇 Coca-Cola: 1.92M
+- 🏆 **Top Beverage Brand:** Coca-Cola leads with approximately **1.92M** in sales.
+- 🛍️ **Leading Retailer:** Walmart contributes approximately **53.6%** of retailer sales.
+- 🌎 **Top Region:** The West region records approximately **2.4M** in sales.
+- 📅 **Monthly Performance:** December records approximately **0.98M** in sales.
+- 🚚 **Delivery Performance:** USPS leads the displayed delivery companies with approximately **2.2M** in sales.
+- 💡 **Growth Opportunity:** Lower-performing brands and regions could benefit from targeted marketing and improved distribution strategies.
 
-🥈 Dasani Water: 1.64M
+## 🧰 Tools & Technologies
 
-🥉 Diet Coke: 1.39M
+- 📊 **Microsoft Power BI** – Dashboard development and visualization
+- 📈 **Data Analysis** – Identifying patterns and trends
+- 🎨 **Data Visualization** – Presenting business insights
+- 🎛️ **Interactive Slicers** – Filtering sales by region
+- 💼 **Business Intelligence** – Supporting data-driven decisions
 
-🥤 Sprite: 1.16M
+## 🚀 Business Recommendations
 
-⚡ Powerade: 1.13M
+- 🎯 Introduce targeted promotions for lower-selling beverage brands.
+- 🌍 Explore growth opportunities in lower-performing regions.
+- 🛒 Strengthen relationships with high-performing retailers.
+- 📅 Use monthly sales patterns to improve inventory planning.
+- 📊 Monitor sales and profitability to evaluate business performance.
 
-🍊 Fanta: 0.97M
+## 🏁 Conclusion
 
+This project demonstrates how Power BI can transform sales data into meaningful business insights. The dashboard helps identify leading brands, retailer contributions, monthly trends, and regional sales opportunities.
 
-2. 🛒 Total Sales by Retailer
+It showcases practical skills in data visualization, KPI reporting, sales analysis, and business intelligence.
 
-Shows the contribution of different retailers to total sales.
+## 👩‍💻 Skills Demonstrated
 
-🟣 Walmart: 53.6%
+`Power BI` · `Data Analysis` · `Data Visualization` · `Business Intelligence` · `KPI Reporting` · `Dashboard Design` · `Sales Analysis`
 
-🔵 CVS: 25.75%
+---
 
-🟪 Costco: 15.72%
+## 📬 Connect With Me
 
-🟠 Target: 4.92%
+**👩‍💻 Prachi Sharma**
 
-
-3. 🚚 Total Sales by Delivery Company
-
-Compares sales associated with different delivery companies.
-
-📦 USPS: 2.2M
-
-🚛 DHL: 2.1M
-
-🚚 FedEx: 2.0M
-
-📬 UPS: 1.9M
-
-
-4. 📅 Total Sales by Month
-
-Displays monthly sales trends and helps identify high- and low-performing months.
-
-📈 December shows approximately 0.98M in sales.
-
-🌟 July records approximately 0.97M in sales.
-
-📉 March and April show comparatively lower sales.
-
-
-5. 📦 Units Sold by Beverage Brand
-
-Compares the quantity of products sold across brands.
-
-🥤 Coca-Cola: 4.0M units
-
-💧 Dasani Water: 2.9M units
-
-🥤 Diet Coke: 2.9M units
-
-🥤 Sprite: 2.6M units
-
-🍊 Fanta: 2.1M units
-
-⚡ Powerade: 2.0M units
-
-
-6. 🌎 Total Sales by Region
-
-Analyzes the distribution of sales across five regions.
-
-🥇 West: 2.4M
-
-🥈 Northeast: 1.8M
-
-🥉 Southeast: 1.6M
-
-📍 South: 1.3M
-
-📍 Midwest: 1.2M
-
-
-💡 Key Business Insights
-
-🏆 Top Brand: Coca-Cola leads in both total sales and units sold.
-
-🛒 Leading Retailer: Walmart contributes the largest share of retailer sales.
-
-🌎 Best-Performing Region: The West region records the highest sales.
-
-📅 Monthly Trend: Sales rise significantly during the middle and end of the year.
-
-🚚 Delivery Performance: USPS records the highest sales among the four delivery companies shown.
-
-📊 Business Opportunity: Lower-performing brands and regions could be targeted with promotional campaigns and improved distribution strategies.
-
-
-🛠️ Tools & Technologies
-
-📊 Microsoft Power BI – Dashboard creation and data visualization
-
-🧹 Data Cleaning – Preparing and organizing data
-
-📈 Data Analysis – Identifying trends and business insights
-
-🎨 Dashboard Design – KPI cards, charts, slicers, and visual formatting
-
-
-🎛️ Dashboard Features
-
-🔍 Region slicer for interactive filtering
-
-📊 KPI cards for quick performance monitoring
-
-📉 Monthly sales trend analysis
-
-🥤 Brand-wise sales and unit comparisons
-
-🛒 Retailer contribution analysis
-
-🚚 Delivery company performance comparison
-
-
-🌎 Regional sales analysis
-
-🚀 Conclusion
-
-The Beverage Brand Sales Dashboard provides a clear overview of sales performance across brands, retailers, delivery companies, months, and regions. The analysis highlights Coca-Cola as the leading brand, Walmart as the largest retailer contributor, and the West as the highest-performing region.
-
-These insights can help businesses improve sales strategies, optimize distribution, and identify opportunities for growth.
-
-Power BI · Data Visualization · Data Analysis · KPI Reporting · Business Intelligence · Dashboard Design · Sales Analysis
-
-📬 Contact & Connect
-
-👩‍💻 Prachi Sharma
-
-📧 Gmail: prachi2sharma000@gmail.com
-
-🐙 GitHub: Prachisharmaa1
-
-💼 LinkedIn: Prachi Sharma
-
+- 📧 **Email:** [prachi2sharma000@gmail.com](mailto:prachi2sharma000@gmail.com)
+- 🐙 **GitHub:** [Prachisharmaa1](https://github.com/Prachisharmaa1/Bike-Purchase)
+- 💼 **LinkedIn:** [Prachi Sharma](https://www.linkedin.com/in/prachi-sharma-11831330b/)
 
