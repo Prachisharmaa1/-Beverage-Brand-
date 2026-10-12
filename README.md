@@ -1,13 +1,16 @@
 # 🥤 Beverage Brand Analytics Dashboard 📊
 
-**📖 Project Overview**
+## **📖 Project Overview**
 
 The **Beverage Brand Dashboard** is an interactive **Power BI** project designed to analyze beverage sales performance across different brands, retailers, delivery companies, and regions. It provides insights into total sales, units sold, operating profit, monthly sales trends, and regional performance through interactive visualizations, KPI cards, and slicers. The dashboard helps identify top-performing brands, understand sales patterns, monitor business performance, and support data-driven decision-making.
+
+---
+
+## **📸 Dashboard Preview**
 
 <p align="center">
   <img src="Dashboard Power BI.png" alt="Beverage Brand Dashboard" width="100%">
 </p>
-
 
 ---
 
@@ -20,6 +23,7 @@ The **Beverage Brand Dashboard** is an interactive **Power BI** project designed
 - 📅 Track monthly sales trends.
 - 🌎 Analyze sales performance by region.
 - 📦 Compare units sold across beverage brands.
+  
 
 ## 💎 Key Performance Indicators (KPIs)
 
@@ -29,6 +33,7 @@ The **Beverage Brand Dashboard** is an interactive **Power BI** project designed
 | 📦 Units Sold | 16M |
 | 💵 Operating Profit | 3.0M |
 | 📊 Operating Margin | Refer to dashboard |
+
 
 ## 📊 Dashboard Visualizations
 
@@ -41,6 +46,7 @@ The **Beverage Brand Dashboard** is an interactive **Power BI** project designed
 | 📦 Units Sold by Brand | Compares product sales volumes. |
 | 🌎 Sales by Region | Identifies the highest- and lowest-performing regions. |
 
+
 ## 🔍 Key Insights
 
 - 🏆 **Top Beverage Brand:** Coca-Cola leads with approximately **1.92M** in sales.
@@ -49,6 +55,7 @@ The **Beverage Brand Dashboard** is an interactive **Power BI** project designed
 - 📅 **Monthly Performance:** December records approximately **0.98M** in sales.
 - 🚚 **Delivery Performance:** USPS leads the displayed delivery companies with approximately **2.2M** in sales.
 - 💡 **Growth Opportunity:** Lower-performing brands and regions could benefit from targeted marketing and improved distribution strategies.
+  
 
 ## 🧰 Tools & Technologies
 
@@ -65,12 +72,14 @@ The **Beverage Brand Dashboard** is an interactive **Power BI** project designed
 - 🛒 Strengthen relationships with high-performing retailers.
 - 📅 Use monthly sales patterns to improve inventory planning.
 - 📊 Monitor sales and profitability to evaluate business performance.
+  
 
 ## 🏁 Conclusion
 
 This project demonstrates how Power BI can transform sales data into meaningful business insights. The dashboard helps identify leading brands, retailer contributions, monthly trends, and regional sales opportunities.
 
 It showcases practical skills in data visualization, KPI reporting, sales analysis, and business intelligence.
+
 
 ## 👩‍💻 Skills Demonstrated
 
