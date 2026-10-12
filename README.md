@@ -1,7 +1,7 @@
 # 🥤 Beverage Brand Analytics Dashboard 📊
 
 <p align="center">
-  <img src="images/beverage-dashboard.png" alt="Beverage Brand Dashboard" width="100%">
+  <img src="images/Dashboard Power BI.png" alt="Beverage Brand Dashboard" width="100%">
 </p>
 
 <h3 align="center">Turning Sales Data into Business Insights 🚀</h3>
