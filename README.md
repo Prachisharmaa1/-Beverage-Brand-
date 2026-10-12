@@ -9,7 +9,7 @@ The dashboard helps businesses identify top-performing beverage brands, understa
 🖼️ Dashboard Preview
 
 <p align="center">
-  <img src="images/dashboard Power BI.png" alt="Beverage Brand Dashboard" width="100%">
+  <img src="images/Dashboard Power BI.png" alt="Beverage Brand Dashboard" width="100%">
 </p>
 
 
@@ -30,27 +30,6 @@ The dashboard helps businesses identify top-performing beverage brands, understa
 
 📦 Compare units sold by beverage brand.
 
-📊 Key Performance Indicators (KPIs)
-
-KPI
-
-Value
-
-💰 Total Sales
-
-8.2M
-
-📦 Units Sold
-
-16M
-
-💵 Operating Profit
-
-3.0M
-
-📊 Operating Margin
-
-Displayed in dashboard
 
 📉 Dashboard Visualizations
 
@@ -70,6 +49,7 @@ Compares the sales performance of different beverage brands.
 
 🍊 Fanta: 0.97M
 
+
 2. 🛒 Total Sales by Retailer
 
 Shows the contribution of different retailers to total sales.
@@ -81,6 +61,7 @@ Shows the contribution of different retailers to total sales.
 🟪 Costco: 15.72%
 
 🟠 Target: 4.92%
+
 
 3. 🚚 Total Sales by Delivery Company
 
@@ -94,6 +75,7 @@ Compares sales associated with different delivery companies.
 
 📬 UPS: 1.9M
 
+
 4. 📅 Total Sales by Month
 
 Displays monthly sales trends and helps identify high- and low-performing months.
@@ -103,6 +85,7 @@ Displays monthly sales trends and helps identify high- and low-performing months
 🌟 July records approximately 0.97M in sales.
 
 📉 March and April show comparatively lower sales.
+
 
 5. 📦 Units Sold by Beverage Brand
 
@@ -120,6 +103,7 @@ Compares the quantity of products sold across brands.
 
 ⚡ Powerade: 2.0M units
 
+
 6. 🌎 Total Sales by Region
 
 Analyzes the distribution of sales across five regions.
@@ -133,6 +117,7 @@ Analyzes the distribution of sales across five regions.
 📍 South: 1.3M
 
 📍 Midwest: 1.2M
+
 
 💡 Key Business Insights
 
@@ -148,6 +133,7 @@ Analyzes the distribution of sales across five regions.
 
 📊 Business Opportunity: Lower-performing brands and regions could be targeted with promotional campaigns and improved distribution strategies.
 
+
 🛠️ Tools & Technologies
 
 📊 Microsoft Power BI – Dashboard creation and data visualization
@@ -157,6 +143,7 @@ Analyzes the distribution of sales across five regions.
 📈 Data Analysis – Identifying trends and business insights
 
 🎨 Dashboard Design – KPI cards, charts, slicers, and visual formatting
+
 
 🎛️ Dashboard Features
 
@@ -171,6 +158,7 @@ Analyzes the distribution of sales across five regions.
 🛒 Retailer contribution analysis
 
 🚚 Delivery company performance comparison
+
 
 🌎 Regional sales analysis
 
