@@ -2,7 +2,7 @@
 
 ## 📖 Project Overview
 
-The **Beverage Brand Sales Dashboard** is an interactive **Microsoft Power BI** project designed to analyze beverage sales performance across different brands, retailers, delivery companies, and regions. It provides a comprehensive overview of total sales, units sold, operating profit, operating margin, and monthly sales trends using interactive visualizations and regional slicers. The dashboard helps identify top-performing brands, evaluate business performance, and discover opportunities for sales growth.
+The **Beverage Brand Sales Dashboard** is an interactive **Power BI** project designed to analyze beverage sales performance across different brands, retailers, delivery companies, and regions. It provides a comprehensive overview of total sales, units sold, operating profit, operating margin, and monthly sales trends using interactive visualizations and regional slicers. The dashboard helps identify top-performing brands, evaluate business performance, and discover opportunities for sales growth.
 
 ---
 
