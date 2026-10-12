@@ -9,7 +9,7 @@ The dashboard helps businesses identify top-performing beverage brands, understa
 🖼️ Dashboard Preview
 
 <p align="center">
-  <img src="images/Dashboard Power BI.png" alt="Beverage Brand Dashboard" width="100%">
+  <img src="images/Dashboard Power BI.png">
 </p>
 
 
