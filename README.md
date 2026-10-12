@@ -1,28 +1,15 @@
 # 🥤 Beverage Brand Analytics Dashboard 📊
 
+**📖 Project Overview**
+
+The **Beverage Brand Dashboard** is an interactive **Power BI** project designed to analyze beverage sales performance across different brands, retailers, delivery companies, and regions. It provides insights into total sales, units sold, operating profit, monthly sales trends, and regional performance through interactive visualizations, KPI cards, and slicers. The dashboard helps identify top-performing brands, understand sales patterns, monitor business performance, and support data-driven decision-making.
+
 <p align="center">
   <img src="Dashboard Power BI.png" alt="Beverage Brand Dashboard" width="100%">
 </p>
 
-<h3 align="center">Turning Sales Data into Business Insights 🚀</h3>
-
-<p align="center">
-  An interactive Power BI dashboard for analyzing beverage sales, profitability, retailer performance, and regional trends.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
-  <img src="https://img.shields.io/badge/Data-Analytics-800080?style=for-the-badge" alt="Data Analytics">
-  <img src="https://img.shields.io/badge/Business-Intelligence-0078D4?style=for-the-badge" alt="Business Intelligence">
-</p>
 
 ---
-
-## 📌 About the Project
-
-The **Beverage Brand Analytics Dashboard** provides a comprehensive overview of beverage sales performance using interactive charts, KPI cards, and regional filters.
-
-The main objective is to identify top-performing brands, analyze monthly sales trends, compare retailer contributions, and understand regional performance to support data-driven business decisions.
 
 ## 🎯 Project Objectives
 
